@@ -1,0 +1,5 @@
+<form method="get" action="/submit">
+  T1: <input type="number" name="T1"> /25 <br>
+  T2: <input type="number" name="T2"> /25 <br>
+  <input type="submit" value="Show Marksheet">
+</form>
